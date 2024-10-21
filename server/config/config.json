@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "Huyvuive@789",
+    "password": "pass",
     "database": "QLKhachSanDB",
     "host": "localhost",
     "dialect": "mysql"
