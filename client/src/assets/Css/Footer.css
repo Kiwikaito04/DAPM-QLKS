@@ -1,0 +1,21 @@
+.footer {
+    background-color: #ff5722;
+    color: white;
+    padding: 10px 20px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    width: 100%;
+    /* position: fixed;   */
+    bottom: 0;  
+    box-sizing: border-box;  
+  }
+
+  .contact-info, .app-download {
+    flex: none; 
+    min-width: 278px;
+    width: 33.33%;
+    box-sizing: border-box; 
+    padding: 10px; 
+    text-align: center; 
+}
